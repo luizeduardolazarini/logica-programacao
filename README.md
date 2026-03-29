@@ -47,18 +47,4 @@ Nesta seção, foquei no desenvolvimento da lógica de tomada de decisão, utili
 | **Coordenadas** | `coordenadas.alg` | Quadrantes e eixos no plano cartesiano. |
 
 ---
-## 📂 Seção 04: Estrutura Condicional
 
-Nesta etapa, foquei no desenvolvimento da lógica de tomada de decisão, utilizando estruturas como `se-entao-senao` e a estrutura de seleção múltipla `escolha-caso`.
-
-### 🚀 Desafios Concluídos:
-* **53. Temperatura**: Conversão entre Celsius e Fahrenheit com escolha de escala.
-* **54. Lanchonete**: Sistema de pedidos utilizando `escolha-caso` para otimização de código.
-* **55. Múltiplos**: Lógica matemática para verificar divisibilidade em qualquer ordem de entrada.
-* **56. Aumento**: Cálculo de reajuste salarial baseado em faixas percentuais (Aninhamento de `se`).
-* **58. Coordenadas**: Identificação de quadrantes e eixos no plano cartesiano (Lógica Geométrica).
-
-### 🛠️ Conceitos Praticados:
-- Operadores lógicos (`e`, `ou`).
-- Operadores aritméticos de resto (`mod` / `%`).
-- Formatação de saída de dados reais.
