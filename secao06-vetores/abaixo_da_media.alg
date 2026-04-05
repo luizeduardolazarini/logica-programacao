@@ -1,4 +1,4 @@
-Algoritmo "soma_vetores"
+Algoritmo "abaixo_da_media"
 Var
   n, i : inteiro
   somamedia, media : real
