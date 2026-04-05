@@ -67,4 +67,23 @@ Repositório dedicado aos estudos de lógica de programação e algoritmos, foca
 | **Experiências** | `experiencias.alg` | Estatística e percentuais. |
 
 ---
-*Desenvolvido por Luiz Eduardo Lazarini de Paula.*
+
+## 📂 Seção 06: Vetores (Estruturas de Dados Unidimensionais)
+Nesta seção, finalizei 12 exercícios práticos que abordam desde a manipulação básica de arrays até processamento de dados complexos com múltiplos vetores paralelos.
+
+### ✅ Exercícios Concluídos:
+* **Negativos:** Identificação de números menores que zero.
+* **Soma Vetor:** Cálculo de soma e média de elementos.
+* **Alturas:** Estatísticas baseadas em dados de altura e idade.
+* **Números Pares:** Filtro e contagem de valores pares.
+* **Maior Posição:** Identificação do maior valor e seu índice.
+* **Soma Vetores:** Operações matemáticas entre dois vetores distintos.
+* **Abaixo da Média:** Filtro de elementos com base na média aritmética.
+* **Média Pares:** Processamento condicional de médias.
+* **Mais Velho:** Lógica de comparação entre vetores de texto e inteiros.
+* **Aprovados:** Sistema de filtragem acadêmica.
+* **Dados Pessoas:** Estatísticas demográficas (altura e gênero).
+* **Comerciante:** Relatório completo de lucro e vendas (Boss Final).
+
+---------------------------------------------------------------------------------------------------------------------
+*Desenvolvido por Luiz Eduardo Lazarini de Paula*
