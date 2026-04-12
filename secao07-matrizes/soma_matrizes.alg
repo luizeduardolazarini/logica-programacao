@@ -41,4 +41,5 @@ Inicio
     escreval()
   fimpara
 
-Fimalgoritm
+Fimalgoritmo
+
