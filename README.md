@@ -87,4 +87,20 @@ Nesta seção, finalizei os 12 desafios práticos de manipulação de arrays e v
 | **Comerciante** | `comerciante.alg` | **Boss Final:** Relatório Comercial. |
 
 ---
+
+## 📂 Seção 07: Matrizes (Concluída 🏆)
+Finalização dos desafios de estruturas bidimensionais (tabelas), focando em navegação por índices, diagonais e manipulação de coordenadas.
+
+| Exercício | Arquivo | Conceito Chave |
+| :--- | :--- | :--- |
+| **Diagonal Negativos**| `diagonal_negativos.alg` | Identificação da diagonal principal. |
+| **Soma Linhas** | `soma_linhas.alg` | Geração de vetor a partir de matriz. |
+| **Negativos Matriz** | `negativos_matriz.alg` | Filtro de valores em estrutura 2D. |
+| **Cada Linha** | `cada_linha.alg` | Busca do maior elemento por linha. |
+| **Soma Matrizes** | `soma_matrizes.alg` | Operações aritméticas entre tabelas. |
+| **Acima Diagonal** | `acima_diagonal.alg` | Lógica geométrica (fatiamento de matriz). |
+| **Matriz Geral** | `matriz_geral.alg` | Manipulação total de eixos. |
+
+---
 **Desenvolvido com foco e disciplina por Luiz Eduardo Lazarini de Paula** 🚀 Nova Andradina - MS
+
