@@ -102,5 +102,19 @@ Finalização dos desafios de estruturas bidimensionais (tabelas), focando em na
 | **Matriz Geral** | `matriz_geral.alg` | Manipulação total de eixos. |
 
 ---
+
+## 🐍 Seção: Transição para Python (Sprint Final ✅)
+Migração da lógica de algoritmos para Python, utilizando **Ubuntu Linux (WSL2)** e aplicando boas práticas de identação e tipagem dinâmica.
+
+| Exercício | Arquivo Python | Status | Diferencial Técnico |
+| :--- | :--- | :--- | :--- |
+| **Idades** | `idades.py` | ✅ | `f-strings` e tipagem `str`/`int`. |
+| **Menor de Três** | `menor-de-tres.py` | ✅ | Lógica de encadeamento `if/elif/else`. |
+| **Crescente** | `crescente.py` | ✅ | Laço `while` com leitura antecipada. |
+| **Soma Ímpares** | `soma-impares.py` | ✅ | Operador de módulo `%` e `range` dinâmico. |
+| **Soma Vetor** | `soma-vetor.py` | ✅ | Manipulação de listas com `append`. |
+| **Diagonal Negativos**| `diagonal-negativos.py`| ✅ | **Boss Final:** Matrizes aninhadas e índices `[i][j]`. |
+
+---
 **Desenvolvido com foco e disciplina por Luiz Eduardo Lazarini de Paula** 🚀 Nova Andradina - MS
 
